@@ -1,8 +1,8 @@
 /**
- * @name SaiCode's nicer Discord
+ * @name Rounded Dark
  * @author SaiCode
- * @version 69.40
- * @description Baguette, based on adaelynxiv.github.io/RoundedDark
+ * @version 1.2.1
+ * @description Baguette
 */
 
 @import url('https://adaelynxiv.github.io/RoundedDark/src/roundeddark.css');
@@ -17,14 +17,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
 :root {
     --font-primary: 'Karla', sans-serif;
-    --custom-background: #576aed;
+    --custom-background: #0b65f1;
 
-    --blurple: #576aed;
+    --blurple: #0b65f1;
     --grey:#252629;
     --lightgrey:#323438;
     --darkgrey:#17181a;
     --red:#eb4148;
-    --blurple-gradient: linear-gradient(0deg, rgba(37,38,41,1) 0%, rgba(87,106,237,1) 70%);
+    --blurple-gradient: linear-gradient(0deg, rgba(37,38,41,1) 0%, #0b65f1 70%);
     --darkgrey-gradient: linear-gradient(0deg, rgba(37,38,41,1) 0%, rgba(23,24,26,1) 100%);
 
     --radius: 16px;
